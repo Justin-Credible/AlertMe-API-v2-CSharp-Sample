@@ -1,0 +1,25 @@
+
+# Build working directories
+AlertMe-API-v2-CSharp-Sample/bin
+AlertMe-API-v2-CSharp-Sample/obj
+
+# Local nu-get packages
+packages/*/
+
+# Visual Studio user preferences etc
+*.docstates
+*.suo
+*.jsproj.user
+
+# Windows thumbnail cache
+Thumbs.db
+
+# Windows folder config
+Desktop.ini
+
+# Mac OS Stuff
+.DS_Store
+
+# Misc temp files
+*.tmp
+*.bak
